@@ -1,0 +1,15 @@
+body {
+    background-color: darkgrey;
+  }
+  
+  .titulo {
+    text-align: center;
+    color: gold;
+    background-color: black;
+  }
+  
+  #subtitulo {
+    text-align: center;
+    color: black;
+    background-color: gold;
+  }
